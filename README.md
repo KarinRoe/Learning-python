@@ -11,5 +11,8 @@ Here are my first coding scripts to learn Phyton.
 4. utils.py -> functions for Rock Scissor Paper app
 
 5. food ordering app -> class, __init__
+    menu_item.py -> class functions for the food ordering app and food and drink order app
 
-6. menu_item.py -> class functions for the food ordering app
+7. food and drink order app -> parent and child class
+    drink.py -> child class 
+    food.py -> child class
