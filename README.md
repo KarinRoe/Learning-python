@@ -18,3 +18,5 @@ Here are my first coding scripts to learn Phyton.
     drink.py -> child class 
     
     food.py -> child class
+
+6. jupyter notebook with various functions exercises
