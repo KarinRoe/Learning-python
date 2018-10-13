@@ -1,4 +1,4 @@
-# Learning Phyton
+# Learning Phyton with codeacademy
 
 Here are my first coding scripts to learn Phyton.
 
